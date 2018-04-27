@@ -1,0 +1,14 @@
+{
+  "mongodb":{
+    "host":"127.0.0.1",
+    "port":"27017"
+  },
+  "mysql":{
+    "host":"192.168.8.178",
+    "port":"3306",
+    "username":"root",
+    "password":"6wKAbnj4",
+    "database":"test_factor",
+    "charset":"utf8"
+  }
+}
