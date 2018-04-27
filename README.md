@@ -1,1 +1,2 @@
 # fetchAlphaFactorValByJQuant
+调用JQuant量化平台的API分析处理并下载需要的因子数据，批量导入到mysql数据库中。
